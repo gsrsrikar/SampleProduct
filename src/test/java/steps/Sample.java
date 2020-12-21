@@ -7,5 +7,11 @@ public class Sample {
           System.out.println("hiiiiiiiiiii");
 		
 	}
+	
+	private void method2() {
+		// TODO Auto-generated method stub
+          System.out.println("hiiiiiiiiiii");
+		
+	}
 
 }
