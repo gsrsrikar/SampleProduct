@@ -14,10 +14,11 @@ Scenario Outline: Rover scenario outline
     And entered rover position coordinates <x> and <y>
     And entered direction <direction>
     And entered commands <commands>
+    
     Then determine rover position
      Examples:
      | x | y | direction | commands |
-     | 1 | 2 | N         |L| 
+     | 1 | 2 | N         |L|
       
       
       
