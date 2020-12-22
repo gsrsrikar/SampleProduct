@@ -14,4 +14,10 @@ public class Sample {
 		
 	}
 
+	private void method22() {
+		// TODO Auto-generated method stub
+          System.out.println("hiiiiiiiiiii");
+		
+	}
+
 }
