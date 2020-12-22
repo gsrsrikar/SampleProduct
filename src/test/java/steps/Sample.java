@@ -14,7 +14,7 @@ public class Sample {
 		
 	}
 
-	private void method22() {
+	private void method2111222() {
 		// TODO Auto-generated method stub
           System.out.println("hiiiiiiiiiii");
 		
